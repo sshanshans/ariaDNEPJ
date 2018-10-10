@@ -1,7 +1,6 @@
 ---
 layout: page
-title: ariaDNE: A Robustly Implemented Algorithm for
-Dirichlet Normal Energy
+title: ariaDNE: A Robustly Implemented Algorithm for Dirichlet Normal Energy
 description: project webpage
 --- 
 
