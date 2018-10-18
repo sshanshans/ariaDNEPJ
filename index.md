@@ -6,7 +6,7 @@ description: project webpage
 
 [Shan Shan](https://sshanshans.github.io) &emsp; &emsp; Shahar Z. Kovalsky &emsp; &emsp; Julie M. Winchester &emsp; &emsp; Doug M. Boyer &emsp; &emsp; Ingrid Daubechies
 
-![teaser](./ariaDNE_code/images/teaser.jpg?raw=true)
+![teaser](./images/teaser.jpg?raw=true)
 
 Paper &emsp; &emsp; &emsp;  Supplementary &emsp; &emsp; &emsp; [Code](https://github.com/sshanshans/ariaDNE_code) 
 
